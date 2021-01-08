@@ -49,5 +49,3 @@ for item in table:
 
 
   prev_item = item
-
-print(table)
